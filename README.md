@@ -1,2 +1,1 @@
-# deskenvoy-releases
-Desk Envoy desktop app installers (Mac and Windows)
+Desk Envoy desktop installers. Download from deskenvoy.com.
